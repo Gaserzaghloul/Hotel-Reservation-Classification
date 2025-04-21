@@ -1,4 +1,4 @@
-# Hotel Reservation Classification
+## Hotel Reservation Classification
 
 A Flask web app that classifies hotel reservations by cancellation risk using ML models.
 
